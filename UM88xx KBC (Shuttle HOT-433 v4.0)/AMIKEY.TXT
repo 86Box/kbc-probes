@@ -1,0 +1,5 @@
+AMIKEY Detected: H
+(((
+Write Controller Command Byte command stuck
+Write Controller Command Byte command stuck
+Write Controller Command Byte command stuck

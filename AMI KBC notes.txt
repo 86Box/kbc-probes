@@ -1,0 +1,5 @@
+The AMI '8' keyboard controller does return a copyright string but the string is not terminated with a 0x00.
+
+The copyright string dumping likely scans the keyboard and/or mouse during the dumping, similar to command ACh
+(Diagnostic dump) of the IBM AT keyboard controller, as evidenced by a 1994 MegaKey copyright string with a
+stray FAh from the keyboard.
